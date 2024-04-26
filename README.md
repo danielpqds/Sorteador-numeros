@@ -1,5 +1,5 @@
 <h1 align="center">PROJECT XYZ</h1>
-sec
+
 ## Descrição do Projeto
 <p> Welcome to Project XYZ: Number Adventures!
 
@@ -32,7 +32,11 @@ Acesse o jogo clickando nesse link (https://sorteador-numeros-wheat.vercel.app/)
 
 
 
-https://github.com/danielpqds/Secret-Number-2.0/assets/155841513/c9f31769-5a18-4c51-b18e-7dddeedfd02e
+
+
+
+https://github.com/danielpqds/Sorteador-numeros/assets/155841513/7e799070-68cf-45d7-871d-7632ac21938e
+
 
 
 
